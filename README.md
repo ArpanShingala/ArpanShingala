@@ -2,25 +2,16 @@
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="#"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-
-### Languages:
-
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C#](https://img.shields.io/badge/C%20sharp-C%23-yellowgreen)
-
-### Technologies:
-
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+🔭 I'm full stack developer by profession <br/>
+🌱 In my free time I learn and develop develop games because it requires you to have best knowledge of every tech which no other application might require <br/>
+🤝 I'm looking to collaborate on MMORPG mobile game development <br/>
+😐 I have a love-hate relationship with programming <br/>
+📫 How to reach me: discord or social <br/>
+😄 Pronouns: he/him <br/>
+🌐 Visit my [porfolio website](https://arpanshingala.github.io/) for additional details <br/>
+⚡ Fun fact: Internet users blink less than usual <br/>
 
 ### How to reach me:
   
