@@ -7,7 +7,6 @@
 🔭 I'm full stack developer by profession <br/>
 🌱 In my free time I learn and develop develop games because it requires you to have best knowledge of every tech which no other application might require <br/>
 🤝 I'm looking to collaborate on MMORPG mobile game development <br/>
-😐 I have a love-hate relationship with programming <br/>
 📫 How to reach me: discord or social <br/>
 😄 Pronouns: he/him <br/>
 🌐 Visit my [porfolio website](https://arpanshingala.github.io/) for additional details <br/>
